@@ -1,4 +1,4 @@
-# BlackPink-Smart-LightStick
+# BlackPink Smart LightStick
 **Đồ Án: Hệ Thống Lightstick Đồng Bộ Theo Nhạc Qua Wi-Fi**
 Hệ thống sử dụng Server (Python/Flask) để phân tích âm thanh (Nhịp điệu và Cường độ) bằng librosa, sau đó gửi lệnh điều khiển đến nhiều Lightstick (Client) cùng lúc thông qua UDP Multicast trên mạng Wi-Fi.
 🌟 Tính Năng Nổi Bật
