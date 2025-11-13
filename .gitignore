@@ -1,0 +1,21 @@
+﻿# === File hệ thống chung (Windows, macOS) ===
+.DS_Store
+Thumbs.db
+
+# Bỏ qua môi trường ảo, file cache, file env
+/web_server/venv/
+/web_server/__pycache__/
+/web_server/*.pyc
+/web_server/*.env
+/web_server/.env
+
+# Bỏ qua thư mục build và cài đặt của VSCode
+/firmware_esp32/.pio/
+/firmware_esp32/.vscode/
+
+# Bỏ qua các thư viện (node_modules) và thư mục build
+/app_mobile/node_modules/
+/app_mobile/build/
+/app_mobile/ios/build/
+/app_mobile/android/build/
+/app_mobile/android/app/build/
