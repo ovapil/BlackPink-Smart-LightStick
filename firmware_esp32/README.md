@@ -2,9 +2,7 @@
 Đây là mã nguồn firmware cho Client Lightstick (ESP32), được xây dựng trên nền tảng Arduino/PlatformIO.
 
 ### 1. Sơ đồ Lắp Mạch (Phần cứng)
-<p align="center">
-  <img src="./assets/hardware_diagram.png" alt="Sơ đồ Lắp Mạch" width="600">
-</p>
+![Sơ đồ Lắp Mạch](./assets/hardware_diagram.png)
 
 ---
 
